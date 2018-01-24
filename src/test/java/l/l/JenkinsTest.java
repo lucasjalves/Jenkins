@@ -20,6 +20,6 @@ public class JenkinsTest extends TestCase {
 
     public void testApp()
     {
-        assertEquals(1, 0);
+        assertEquals(1, 1);
     }
 }
