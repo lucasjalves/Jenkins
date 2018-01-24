@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>l</groupId>
-  <artifactId>l</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <artifactId>Artefato</artifactId>
+  <version>0.0.2</version>
   <packaging>jar</packaging>
 
   <name>l</name>
