@@ -20,6 +20,6 @@ public class JenkinsTest extends TestCase {
 
     public void testApp()
     {
-        assertEquals(2, 1);
+        assertEquals("Deu erro ",2, 1);
     }
 }
